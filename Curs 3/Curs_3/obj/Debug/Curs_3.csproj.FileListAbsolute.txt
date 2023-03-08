@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\bin\Debug\Curs_3.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\bin\Debug\Curs_3.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\bin\Debug\Curs_3.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\obj\Debug\Curs_3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\obj\Debug\Curs_3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\obj\Debug\Curs_3.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs3_PAW\Curs_3\obj\Debug\Curs_3.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\bin\Debug\Curs_3.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\bin\Debug\Curs_3.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\bin\Debug\Curs_3.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\obj\Debug\Curs_3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\obj\Debug\Curs_3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\obj\Debug\Curs_3.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_3\Curs_3\obj\Debug\Curs_3.pdb
